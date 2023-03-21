@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_studia/sem3/Sop2/projekt2_5lol/file_reader.c
+file_reader.h
+/media/sf_studia/sem3/Sop2/projekt2_5lol/file_reader.h
+tested_declarations.h
+/media/sf_studia/sem3/Sop2/projekt2_5lol/tested_declarations.h
+rdebug.h
+/media/sf_studia/sem3/Sop2/projekt2_5lol/rdebug.h
+tested_declarations.h
+/media/sf_studia/sem3/Sop2/projekt2_5lol/tested_declarations.h
+rdebug.h
+/media/sf_studia/sem3/Sop2/projekt2_5lol/rdebug.h
+
+/media/sf_studia/sem3/Sop2/projekt2_5lol/file_reader.h
+errno.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+string.h
+-
+ctype.h
+-
+
+/media/sf_studia/sem3/Sop2/projekt2_5lol/rdebug.h
+
+/media/sf_studia/sem3/Sop2/projekt2_5lol/tested_declarations.h
+file_reader.h
+/media/sf_studia/sem3/Sop2/projekt2_5lol/file_reader.h
+
